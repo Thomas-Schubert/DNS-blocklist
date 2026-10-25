@@ -1,6 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: DNS Blocklist (deduped vs OISD big + StevenBlack)
 ! Converted: 2026-10-20
+||consentmanager.net
+||cookiebot.com
+||collect.chat
+||collectcdn.com
+||adobetm.com
+||benelph.de
 ||_.rocks^
 ||1bliq.io^
 ||3p.ampproject.net^
