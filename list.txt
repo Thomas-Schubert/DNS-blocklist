@@ -5,7 +5,7 @@
 ||cookiebot.com
 ||collect.chat
 ||collectcdn.com
-||adobetm.com
+||adobedtm.com
 ||benelph.de
 ||_.rocks^
 ||1bliq.io^
