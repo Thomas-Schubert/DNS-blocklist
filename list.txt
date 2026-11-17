@@ -1,7 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: DNS Blocklist (deduped vs OISD big + StevenBlack)
 ! Converted: 2026-10-20
+||googlesyndication.com^
+||doubleclick.net^
+||flashb.id^
+||sparteo.com^
 ||usercentrics.eu^
+||cookiepro.com^
 ||consentmanager.net^
 ||cookiebot.com^
 ||collect.chat^
