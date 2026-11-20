@@ -2,10 +2,7 @@
 ! Title: DNS Blocklist (deduped vs OISD big + StevenBlack)
 ! Converted: 2026-10-20
 ||cloudflareinsights.com^
-||pubmatic.com^
-||googlesyndication.com^
 ||doubleclick.net^
-||flashb.id^
 ||2mdn.net^
 ||sparteo.com^
 ||usercentrics.eu^
@@ -170,11 +167,9 @@
 ||unwf5a.heise.de^
 ||vitex.tv^
 ||wapo.pub^
-||webstatistik.landbw.de^
 ||webyze.com^
 ||wnyc.org^
 ||www.bricklebrit.com^
-||www.djpcraze.com^
 ||xadspoteffects.tv^
 ||xgroovy.com^
 ||yagiay.com^
